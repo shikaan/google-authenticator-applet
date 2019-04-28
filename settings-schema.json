@@ -1,0 +1,8 @@
+{
+    "secret": {
+        "type" : "entry",
+        "default" : "",
+        "description" : "Google Authenticator Secret",
+        "tooltip" : "You can find the token scanning the QR code"
+    }
+}

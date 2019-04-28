@@ -1,0 +1,7 @@
+{
+    "uuid": "google-authenticator@shikaan",
+    "name": "Google Authenticator",
+    "description": "Shows Google Authenticator in your bar",
+    "icon": "icon",
+    "version": "0.0.1"
+}
